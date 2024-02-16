@@ -13,3 +13,11 @@ body {
     color: var(--branco);
     font-family: 'Lobster';
 }
+
+.botao{
+    font-family: 'Lobster';
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    font-size: 18px;
+    
+}
