@@ -66,3 +66,9 @@
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
     }
+
+    .abas-texto{
+        background-color: var(--texto-fundo);
+        padding: 40px;
+        border-radius: 0 0 40px 40px;
+    }
