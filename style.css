@@ -68,7 +68,7 @@
     }
 
     .abas-conteudo{
-        background-color: var(--texto-fundo);
+        background-color: var(--botao-inativo);
         padding: 40px;
         border-radius: 0 0 40px 40px;
     }
