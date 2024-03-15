@@ -16,7 +16,6 @@
     
     
     .conteudo-principal {
-    background-color: var(--botao-inativo);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,6 +35,10 @@
     color: var(--verde);
     }
     
+.conteudo{
+    background-color: var(--botao-inativo);
+}
+
     .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
